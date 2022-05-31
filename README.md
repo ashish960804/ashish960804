@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Kumar @ashish960804
 - 👀 I’m interested in Cloud and Blockchain
-- 🌱 I’m currently learning blockchain and how to create a smart contract.
+- 🌱 I’m currently learning implementation  of blockchain, NFT and WEB3.
 - 📫 You can reach me on my email ashishjah23415@gmail.com.
 
 <!---
